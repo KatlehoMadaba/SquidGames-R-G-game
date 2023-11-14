@@ -27,7 +27,7 @@ namespace guid_squid_games
         }
         int secs = 0;
         int count = 0;
-        string light = "";
+        string lights = "";
         Random random = new Random();
         int startOfrace = 0;
         double greenPercMoved = (456 * 80 / 100);//364
